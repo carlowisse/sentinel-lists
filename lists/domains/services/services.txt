@@ -237,7 +237,6 @@ contactapi.micloud.xiaomi.net
 game.xiaomi.com
 wifiapi.micloud.xiaomi.net
 test.xiaomi.com
-file.market.xiaomi.com
 xiaomi.com
 cc2.sys.miui.com
 staging.market.n.xiaomi.com

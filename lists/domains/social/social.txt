@@ -52695,10 +52695,6 @@ scontent-lht6-1.cdninstagram.com
 instagram.fncl1-1.fna.fbcdn.netinstagram.com
 scontent-lht6-2.cdninstagram.com
 cdninstagram.co
-rupload.facebook.com
-edge-mqtt.facebook.com
-www.messenger.com
-messenger.com
 reddit.com
 www.reddit.com
 api.mcr.skype.com
