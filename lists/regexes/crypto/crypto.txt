@@ -1,0 +1,3 @@
+/^.*coin[\.\-]*min(er|ing).*$/
+/^.*(coin[s]*|crypto)[\.\-].*$/
+/^(.*[\.\-])*(coin[s]*|crypto).*$/

@@ -1,0 +1,11 @@
+export ads=1
+export adult=6
+export agencies=1
+export amp=1
+export analytics=3
+export compilation=12
+export crypto=1
+export malware=4
+export misc=1
+export services=1
+export social=1

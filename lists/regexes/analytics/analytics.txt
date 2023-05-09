@@ -1,0 +1,11 @@
+(^|\.)treasuredata\.com$
+(^|\.)unityads(|\.co)\.com$
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)redshell\.io$
+(^|\.)unity(|3d)\.com$
+/^(.*[\.\-])*(telemetr[iy]|(evil|[s]*)tra[ck](k|king|ker)|[s]*trk|utm|video[-]*stat)[sz]*[0-9]*[\.\-]/
+/(bn|db|hk)[0-9]sch[0-9]+\.wns\.windows\.com$/
+(.*\.)*(ad-(balancer|brix|center|cloud|delivery|delivery|locus|maven|move|plus|score|srv|stir))\.([a-z]{2,3}\.)*[a-z]{2,6}$
+(.*\.)*(app(boy|next|adhoc|celerator|ier|odeal|lovin|nexus|sflyer|boy|brain|ier|lvn|spot|timize|see|ads|lifier|lift|logrocket|-measurement|topia))\.([a-z]{2,3}\.)*[a-z]{2,6}$
+(.*\.)*(dotomi|urbanairship|criteo|yimg|footprint|sitescout|turn|w55c|openx|voluumtrk|videoplaza|inmobi|reporo|cnzz|skim(resources|links)|tribalfusion|getsocial|hoverr|mediaplex|auditude|tacoda|puserving|d(e|o)mdex)\.([a-z]{2,3}\.)*[a-z]{2,6}$
