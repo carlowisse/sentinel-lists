@@ -1,6 +1,0 @@
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser_AdBlock.txt
-https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_optional.txt
-https://v.firebog.net/hosts/Prigent-Crypto.txt
-https://blocklistproject.github.io/Lists/alt-version/crypto-nl.txt

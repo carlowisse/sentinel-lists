@@ -1,0 +1,13 @@
+bash merge_lists.sh
+
+python count_lines.py
+
+python prepare_lists.py
+python sort_lists.py
+python de_duplicate.py
+
+python count_lines.py
+
+bash split_lists.sh
+
+bash generate_vars.sh

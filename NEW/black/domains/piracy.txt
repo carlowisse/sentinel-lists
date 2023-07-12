@@ -1,9 +1,0 @@
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/dht-bootstrap-nodes
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/file-hosting
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-clients
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-trackers
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/usenet
-https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/warez
-https://blocklistproject.github.io/Lists/alt-version/piracy-nl.txt
-https://blocklistproject.github.io/Lists/alt-version/torrent-nl.txt

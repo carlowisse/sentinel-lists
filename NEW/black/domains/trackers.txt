@@ -1,5 +1,0 @@
-https://hostfiles.frogeye.fr/firstparty-trackers.txt
-https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list
-https://hostfiles.frogeye.fr/multiparty-trackers.txt
-https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt

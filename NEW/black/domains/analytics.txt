@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/tiny_normal.txt

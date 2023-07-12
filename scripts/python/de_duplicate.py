@@ -1,5 +1,6 @@
-import os
-from globals import domain_folder_path
+import os, sys
+from globals import domain_folder_path, regex_folder_path, adblocks_folder_path
+from count_lines import get_line_count
 
 ### VARS ###
 line_count_before = 0
@@ -48,21 +49,26 @@ def process_folder(folder_path, line_count_after, current_line):
     return line_count_after, current_line
 
 
-# Calculate total lines
-for root, _, files in os.walk(domain_folder_path):
-    for file in files:
-        if file.endswith(".txt"):
-            with open(os.path.join(root, file), "r") as f:
-                lines = [line.strip() for line in f]
-                unique_lines = set(lines)
-                line_count_before += len(unique_lines)
+### EXECUTE ###
+if __name__ == "__main__":
+    list_type = sys.argv[1]
 
-# Process folders and files
-line_count_after, current_line = process_folder(domain_folder_path, line_count_after, current_line)
+    if list_type == "domains":
+        folder_path = domain_folder_path
+        line_count_before = get_line_count("domains")
+    elif list_type == "regexes":
+        folder_path = regex_folder_path
+        line_count_before = get_line_count("regexes")
+    elif list_type == "adblocks":
+        folder_path = adblocks_folder_path
+        line_count_before = get_line_count("adblocks")
 
-# Clear progress line
-print()
+    # Process folders and files
+    line_count_after, current_line = process_folder(folder_path, line_count_after, current_line)
 
-# Output line count before and after deduplication
-print("Line count before deduplication:", line_count_before)
-print("Line count after deduplication:", line_count_after)
+    # Clear progress line
+    print()
+
+    # Output line count before and after deduplication
+    print("Line count before deduplication:", line_count_before)
+    print("Line count after deduplication:", line_count_after)

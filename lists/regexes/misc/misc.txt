@@ -1,8 +1,5 @@
-/^wpad(\..*)*$/
-/^(autodiscover|pac|wpad)\..*$/
-^.*xn--.*$
-/^.*xn--.*$/
-*.cloudfront.*
-*.shopify.*
 (.*)\.g00\.(.*)
-/^.*(bet(ting|s)|baccarat|bingo|blackjack|casino|craps|lott(ery|o)|gam(e[rs]|ing|bl(e|ing))|roulette|sweepstake|poker).*$/
+/^(autodiscover|pac|wpad)\..*$/
+/^.*(bet(ting|s)|baccarat|bingo|blackjack|casino|craps|lott(ery|o)|gam(e[rs]|ing|bl(e|ing))|roulette|sweepstake|poker).*$//^.*xn--.*$/
+/^wpad(\..*)*$/
+^.*xn--.*$

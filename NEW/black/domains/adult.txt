@@ -1,3 +1,0 @@
-https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontent.txt
-https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/blacklist/blacklistadultcontentwildcard.txt
-https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt

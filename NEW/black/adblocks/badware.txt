@@ -1,7 +1,0 @@
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.medium.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.light.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/spam-tlds.txt

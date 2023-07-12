@@ -1,6 +1,0 @@
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/pro.plus.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt
-https://raw.githubusercontent.com/badmojr/addons_1Hosts/main/kidSaf/domains.wildcards

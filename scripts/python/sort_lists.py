@@ -1,5 +1,5 @@
 import os
-from globals import domain_folder_path, regex_folder_path
+from globals import domain_folder_path, regex_folder_path, adblocks_folder_path
 
 
 def order_txt_files(folder_path):
@@ -20,4 +20,9 @@ def order_txt_files(folder_path):
 
 
 ### EXECUTE ###
-order_txt_files(domain_folder_path)
+if __name__ == "__main__":
+    list_types = [domain_folder_path, regex_folder_path, adblocks_folder_path]
+
+    for list_type in list_types:
+        print(f"Sorting: {list_type}")
+        order_txt_files(list_type)

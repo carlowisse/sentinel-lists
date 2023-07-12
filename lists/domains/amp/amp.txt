@@ -1211,7 +1211,6 @@ apostrophe-ua.cdn.ampproject.org
 app--liv-jp.cdn.ampproject.org
 app-handelsblatt-com.cdn.ampproject.org
 appadvice-com.cdn.ampproject.org
-appassets-mvtdev-com.cdn.ampproject.org
 applealmond-com.cdn.ampproject.org
 appleinsider-com.cdn.ampproject.org
 appleinsider-ru.cdn.ampproject.org
@@ -7630,7 +7629,6 @@ i-genius-com.cdn.ampproject.org
 i-guim-co-uk.cdn.ampproject.org
 i-hurimg-com.cdn.ampproject.org
 i-ibb-co.cdn.ampproject.org
-i-imgur-com.cdn.ampproject.org
 i-inews-co-uk.cdn.ampproject.org
 i-insider-com.cdn.ampproject.org
 i-kinja--img-com.cdn.ampproject.org
@@ -10883,7 +10881,6 @@ money-com.cdn.ampproject.org
 money-udn-com.cdn.ampproject.org
 money-yahoo-com.cdn.ampproject.org
 montenlair-fr.cdn.ampproject.org
-moovitapp-com.cdn.ampproject.org
 mor-ankaraescortlarx-com.cdn.ampproject.org
 more--love-org.cdn.ampproject.org
 morethandigital-info.cdn.ampproject.org
@@ -11569,7 +11566,6 @@ s-gamespark-jp.cdn.ampproject.org
 s-glbimg-com.cdn.ampproject.org
 s-hurriyet-com-tr.cdn.ampproject.org
 s-internethaber-com.cdn.ampproject.org
-s-ipaddress-com.cdn.ampproject.org
 s-iw-ro.cdn.ampproject.org
 s-kaskus-id.cdn.ampproject.org
 s-kym--cdn-com.cdn.ampproject.org
