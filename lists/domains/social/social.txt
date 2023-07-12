@@ -267,7 +267,6 @@
 1991.twoo.com
 199distancelearn.blackpeoplemeet.com
 19hawkeye73.adultfriendfinder.com
-1adb.fling.com
 1click.flirt4free.com
 1csrvvr.dns.facebook.com
 1csuma6.dns.facebook.com
@@ -307,14 +306,11 @@
 2.date-me.com
 2.fetlife.com
 2.gleeden.com
-2.livejasmin.com
 2.richwomen.org
 2.silversingles.com
 2.tsescorts.com
 20.dating
 2006.badoo.com
-2008.fling.com
-2010www.fling.com
 2013zhenqianqipaiyouxipaimingive.oculusvr.com
 201513w27uc.dns.facebook.com
 20157.240.18.1513w27uc.dns.facebook.com
@@ -371,7 +367,6 @@
 2464090256142010209.nostringsattached.com
 249626726260799872.sugardaddymeet.com
 24im.messenger.com
-25.fling.com
 250-sgchat.lifestylelounge.com
 252flookaside.fbsbx.com
 252fwww.messenger.com
@@ -541,7 +536,6 @@
 7-zh-hancms1.facebookbrand-release.fb.com
 7.fbjs.facebook.com
 7.googlevideo.com
-704graphics.asiafriendfinder.com
 70mhsgywt869bqv2foiuknclzp3aexd154rj.fb.me
 72dbv4e7-latin.dns.facebook.com
 74.swirlr.com
@@ -606,7 +600,6 @@ a.r.oculusvr.com
 a.service.lea.dating
 a.sgpstatp.com
 a.trueswingers.com
-a.update.fbsbx.com
 a0.ipstatp.com
 a0.pstatp.com
 a0.pstatp.com.bsgslb.com
@@ -743,7 +736,6 @@ acelytic.ace.date
 achatapp.com
 achilles.chaturbate.com
 achment.fbsbx.com
-act.benaughty.com
 act.channel.facebook.com
 act.flirt.com
 actcorp.facebook.com
@@ -766,7 +758,6 @@ ad.parship.de
 ad.twoo.com
 adads.alt.com
 adamoauctions.eyzwideshut.com
-adb.fling.com
 addf.naughtychat.info
 adeelaslambut.waplog.com
 adelaide.bedpage.com
@@ -861,23 +852,17 @@ ads.cams.com
 ads.cupid.com
 ads.dating
 ads.fbsbx.com
-ads.fling.com
 ads.fubar.com
 ads.gleeden.com
 ads.loveaccess.com
 ads.loveawake.com
 ads.recon.com
 ads.singlemuslim.com
-ads.tiktok.com
 ads.twoo.com
 ads.welovedates.com
 ads00.cam4.com
-ads2.ads.pof.com
-adserver.alt.com
-adserver.asiafriendfinder.com
 adsever.adultfriendfinder.com
 adsever.alt.com
-adsever.asiafriendfinder.com
 adtools.facebook.com
 adult-affairs.dtmeetnn.com
 adult-crush-dg-site.dtlocalnn.com
@@ -910,7 +895,6 @@ adultaffairs.dating
 adultaustralia.dating
 adultchat.net
 adultcyberdating.net
-adultdates.fling.com
 adultfree.alt.com
 adultfriendfinder.com
 adulthookup.nostringsattached.com
@@ -933,7 +917,6 @@ adventure.dating
 advertisenew.planetromeo.com
 advertiser.doublelist.com
 advertisesql.planetromeo.com
-advertising.paltalk.com
 advice.anastasiadate.com
 advice.chnlove.com
 advice.eharmony.co.uk
@@ -1463,7 +1446,6 @@ albuquerque.hotpage.org
 albuquerque.skipthegames.cam
 alchemysystems.facebook.com
 alejandhra-and-mhelannye.flirt4free.com
-alerts.fling.com
 alexandrasicignano.fb.me
 alexandrasicignano.messenger.com
 alexandria.bedpage.com
@@ -1608,15 +1590,12 @@ analdaters.com
 analloverdating.co.uk
 analsex.com
 analslappers.com
-analytic.imlive.com
 analytics-email.planetromeo.com
 analytics-m.fbjs.facebook.com
 analytics.canadianadult.dating
-analytics.facebook.com
 analytics.intern.facebook.com
 analytics.kasidie.com
 analytics.slixa.com
-analytics.tiktok.com
 anastasiadate.com
 anchor.facebook.com
 anchorage.bedpage.com
@@ -1665,7 +1644,6 @@ anonymousmask.beta.facebook.com
 anonymousmask.scgraph.facebook.com
 anothermask.cinyour.facebook.com
 answers.oculus.com
-ant.benaughty.com
 ant.flirt.com
 anti-virus-rants.messenger.com
 anti-virus.loveandseek.com
@@ -1673,7 +1651,6 @@ antiland.com
 antiphone.antiland.com
 antispam.2meet4free.com
 antispam.agematch.com
-antispam.asiafriendfinder.com
 antispam.asianmatching.com
 antispam.banglocalsluts.com
 antispam.bicupid.com
@@ -1718,7 +1695,6 @@ antmedia.wematcher.com
 anvandatrosor.allonlinedatingsites.com
 anywhere.truevisions.tv.fb.me
 ao.cougarhangout.com
-aol.fling.com
 aol.meetic.com
 aolcovid19nj.loveandseek.com
 aolsvc.match.com
@@ -2179,10 +2155,7 @@ apo-mascara.blackpeoplemeet.com
 apocalypse.zoosk.com
 apollo-mod.oculusvr.com
 app-1.omiai-jp.com
-app-analytics-v2.snapchat.com
-app-analytics.snapchat.com
 app-dev.joinxo.app
-app-measurement.com
 app-metrics.ord.myfreecams.com
 app-test.musemuse.cn
 app-uat.lovestruck.com
@@ -2195,7 +2168,6 @@ app.asianmatching.com
 app.bbwdatingapp.net
 app.be2.com
 app.belfast.flirtio.com
-app.benaughty.com
 app.beta.facebook.com
 app.bigone.dating
 app.birmingham.flirtio.com
@@ -3895,7 +3867,6 @@ arkansas.swingtowns.com
 arlington.bedpage.com
 arnum.bumble.com
 ars2.milfsearch.com
-art.asiafriendfinder.com
 art.bookofmatches.com
 art.chatdate.app
 art.elitesingles.ca
@@ -3960,7 +3931,6 @@ asi4teytg.secure.beta.facebook.com
 asia-red.twoo.com
 asia.blossoms.com
 asia.meetic.com
-asiafriendfinder.com
 asiafusiontech.facebook.com
 asian-dat-ing-apps-in-america.dtmeetingnn.com
 asian-hookup.dtlocalnn.com
@@ -4026,7 +3996,6 @@ assets3.datemyschool.com
 assistant.facebook.com
 associates.match.com
 associazionearche.facebook.com
-associmage.match.com
 aston.facebook.com
 astrazeneca.facebook.com
 asu.facebook.com
@@ -4099,7 +4068,6 @@ au.m.lovestruck.com
 au.match.com
 au.moist.dating
 au.newsroom.fb.com
-au.onenightfriend.com
 au.quietsecrets.dating
 au.singlemuslim.com
 au.skokka.com
@@ -4451,7 +4419,6 @@ b-m.facebook.com
 b-www.facebook.com
 b.beta.facebook.net
 b.fb.me
-b.fling.com
 b.i.instagram.com
 b.l.bytedns.net
 b.messenger.com
@@ -4563,18 +4530,14 @@ bangor.facebook.com
 bankers-hill.swingersplay.com
 banner.adultfriendfinder.com
 banner.sdc.com
-banners.alt.com
 banners.camplease.com
 banners.chnlove.com
 banners.fetlife.com
 banners.mylol.com
-banners.nostringsattached.com
 banners.playwithme.com
-banners.swapfinder.com
 banners.swapsmut.com
 bannes.adultfriendfinder.com
 bannes.alt.com
-bannes.asiafriendfinder.com
 banuba-live-selfie-filters-and-face-masks-camera.messenger.com
 baobao.dating
 baoviet.facebook.com
@@ -4639,7 +4602,6 @@ basel.bedpage.com
 basel.skipthegames.cam
 basothosugardaddy.dateworld.co
 bastion.gotinder.com
-bat.fling.com
 batch1.xxxhookups.com
 bath.bonepage.com
 bath.skipthegames.cam
@@ -4780,7 +4742,6 @@ bemidji.skipthegames.cam
 bemoji.boo.chat
 ben-latino-and-mike-swift.flirt4free.com
 benaughty.app
-benaughty.com
 benchmark4cigna.fetlife.com
 bend.hotpage.org
 bend.skipthegames.cam
@@ -5216,7 +5177,6 @@ binghamton.bedpage.com
 binghamton.bonepage.com
 binghamton.hotpage.org
 binghamton.skipthegames.cam
-bioalmorol.fling.com
 biotech.chatdate.app
 bip.messenger.com
 bip.tsescorts.com
@@ -5292,7 +5252,6 @@ blog.anastasiadate.com
 blog.ashleymadison.com
 blog.asianfriendly.com
 blog.badoo.com
-blog.benaughty.com
 blog.bicupid.com
 blog.blossoms.com
 blog.bookofmatches.com
@@ -5311,7 +5270,6 @@ blog.datingforseniors.com
 blog.facebook.com
 blog.farmersonly.com
 blog.first.datingadvice.dating
-blog.fling.com
 blog.flirt.com
 blog.flirtio.com
 blog.friendsation.com
@@ -5626,7 +5584,6 @@ bozeman-therapeuticmassage.bedpage.com
 bozeman.bonepage.com
 bozeman.skipthegames.cam
 bpeucqz.cams.com
-bpromos.fling.com
 bqdlot1ghj5uzk8wp4920sfvnr3iameycx76.fb.me
 br-brasilia.bedpage.com
 br-fr.af-za.ro-ro.fbjs.facebook.com
@@ -5639,11 +5596,9 @@ br-fr.lt-lt.ro-ro.fbjs.facebook.com
 br-fr.ru-ru.it-it.fbjs.facebook.com
 br-fr.th-th.de-de.prod.facebook.com
 br-static.skokka.com
-br.benaughty.com
 br.chaturbate.com
 br.cougarhangout.com
 br.datingvip.com
-br.fling.com
 br.flirt.com
 br.freehookups.com
 br.gleeden.com
@@ -5740,7 +5695,6 @@ brownsville.bedpage.com
 brownsville.bonepage.com
 brownsville.skipthegames.cam
 browse-hookup-sites.dtlocalnn.com
-browse.asiafriendfinder.com
 browse.hornyaffairs.com
 browse.paltalk.com
 browser.paltalk.com
@@ -6124,16 +6078,12 @@ ca-es.zh-tw.ha.lite.facebook.com
 ca-es.zh-tw.lite.facebook.com
 ca-es.zh-tw.ro-ro.fbjs.facebook.com
 ca-es.zh-tw.upps.lite.facebook.com
-ca-fb.clickandflirt.com
-ca-m.benaughty.com
 ca.adult.quietsecrets.dating
 ca.adultsearch.com
 ca.alt.com
-ca.benaughty.com
 ca.cam4.com
 ca.chaturbate.com
 ca.christianconnection.com
-ca.clickandflirt.com
 ca.cougarhangout.com
 ca.cupid.com
 ca.datingvip.com
@@ -6151,7 +6101,6 @@ ca.messenger.com
 ca.moist.dating
 ca.mysugarmomma.com
 ca.newsroom.fb.com
-ca.onenightfriend.com
 ca.over50s.dating
 ca.pof.com
 ca.positivesingles.com
@@ -6164,13 +6113,7 @@ ca.whosonline.dating
 caboverdeansugardaddy.dateworld.co
 cabuernigasv-se.facebookbrand-preprod.fb.com
 cache-02.knoutchat.com
-cachecdn.fling.com
-cachehp.fling.com
-cachemd.fling.com
-cachend.fling.com
-cachep.fling.com
 cachew.camsoda.com
-cachewp.fling.com
 cadiz.skipthegames.cam
 cafedesire.com
 cafelognx.facebookbrand-release.fb.com
@@ -6244,7 +6187,6 @@ camsyt.chaturbate.com
 camtv.camsoda.com
 camvirt.com
 camvoice.com
-can.benaughty.com
 can.fbsbx.com
 can.flirt.com
 canada-hookups.dtmeetnn.com
@@ -6432,7 +6374,6 @@ cdn.adultfriendfinder.com
 cdn.adultwork.com
 cdn.afrointroductions.com
 cdn.allmale.com
-cdn.asiafriendfinder.com
 cdn.asianbeauties.com
 cdn.asiandating.com
 cdn.aws.beautifulpeople.com
@@ -6532,7 +6473,6 @@ cdn5.christianmingle.com
 cdn5.farmersonly.com
 cdn5.sweetydate.com
 cdn77.trueswingers.com
-cdnads.cam4.com
 cdndal011.cams.com
 cdndal018.cams.com
 cdndal019.cams.com
@@ -6615,7 +6555,6 @@ cf.catholicmatch.com
 cf.grindr.com
 cf.meetville.com
 cf.parship.de
-cfb.fling.com
 cfs3phts.onlinebootycall.com
 cfweb.doulike.com
 cg.adultwork.com
@@ -6705,7 +6644,6 @@ chat.camvoice.com
 chat.cdn.whatsapp.net
 chat.ch.sexy.easyflirt.com
 chat.chnlove.com
-chat.clickandflirt.com
 chat.coffeemeetsbagel.com
 chat.date-me.com
 chat.dimple.dating
@@ -6772,7 +6710,6 @@ chat14.zoosk.com
 chat15.zoosk.com
 chat16.zoosk.com
 chat17.zoosk.com
-chat2.asiafriendfinder.com
 chat2.bazoocam.org
 chat2.chnlove.com
 chat2.gaydar.net
@@ -6807,7 +6744,6 @@ chatter.meetme.com
 chattest.lifestylelounge.com
 chattino.chaturbate.com
 chaturbate.com
-chaturbate.fling.com
 chaturbateroom.chaturbate.com
 chatv.swinglifestyle.com
 chatville.com
@@ -6821,7 +6757,6 @@ cheaters.affair.dating
 cheaters.dating
 cheatershookup.com
 cheatinghookup.com
-cheatingsluts.fling.com
 cheatingwives.possiblemates.com
 check.neural.dating
 check4.facebook.com
@@ -6955,7 +6890,6 @@ classifieds.paltalk.com
 classof2020.fb.com
 clayton.facebook.com
 cld74u.dns.facebook.com
-clearwire.fling.com
 clendenin-bird-billington.facebookbrand-preprod.fb.com
 cleveland.bedpage.com
 cleveland.bonepage.com
@@ -6984,7 +6918,6 @@ click.smooci.com
 click.theleague.com
 click.twoo.com
 click.weareher.com
-clickandflirt.com
 clicks.badoo.com
 clicks.twoo.com
 client-s.gateway.messenger.live.com
@@ -6998,7 +6931,6 @@ clients6.google.com
 clientsidetesticici.facebook.com
 clip.adultwork.com
 clipper.myfreecams.com
-clk.members.fling.com
 clk.notice.camsoda.com
 clnjqya.singlemuslim.com
 close-encounters-club.com
@@ -7058,7 +6990,6 @@ cmn.oculusvr.com
 cms-www.fbjs.facebook.com
 cms.51.dating
 cms.amazilia.dating
-cms.asiafriendfinder.com
 cms.bookofmatches.com
 cms.chemistry.com
 cms.doulike.com
@@ -7076,7 +7007,6 @@ cmsu.facebook.com
 cn-test.meetic.com
 cn.10-pt-br.facebookbrand-2018-dev.fb.com
 cn.adultfriendfinder.com
-cn.asiafriendfinder.com
 cn.cam4.com
 cn.camquickie.com
 cn.chatspin.com
@@ -7199,7 +7129,6 @@ com-sub-97-36-4.oculusvr.com
 com-vmt.oculusvr.com
 com.0.facebook.com
 com.agematch.com
-com.asiafriendfinder.com
 com.catholicmatch.com
 com.chatdate.app
 com.datefind.app.dating
@@ -7251,7 +7180,6 @@ compatiblepartners.net
 comsazan.oculusvr.com
 comsearch.jdate.com
 comune.2meet4free.com
-comune.asiafriendfinder.com
 comune.asianmatching.com
 comune.banglocalsluts.com
 comune.bicupid.com
@@ -7359,7 +7287,6 @@ content.meetandsex.com
 content.paltalk.com
 content1.hott.dating
 content2.hott.dating
-contentcdn.fling.com
 contentdistributionpolicies.fb.com
 contentdistributionpolicy.fb.com
 contents.seeking.com
@@ -7551,8 +7478,6 @@ covid19il.singleparentmeet.com
 covid19updte.facebookbrand-preprod.fb.com
 cowww.millionairematch.com
 cowww.seniormatch.com
-cozmo8.fling.com
-cozmo84.fling.com
 cp.agematch.com
 cp.anastasiadate.com
 cp.loveaccess.com
@@ -7565,7 +7490,6 @@ cpanel.agematch.com
 cpanel.allonlinedatingsites.com
 cpanel.analloverdating.co.uk
 cpanel.analslappers.com
-cpanel.asiafriendfinder.com
 cpanel.banglocalsluts.com
 cpanel.bellas.us
 cpanel.bkkescortservice.com
@@ -7702,7 +7626,6 @@ cr.match.com
 cr.meetic.com
 cr.skokka.com
 cr.wealthysingles.net
-cradver.livejasmin.com
 cradver.stripchat.com
 craftshobbies.imlive.com
 craiova.skipthegames.cam
@@ -7720,7 +7643,6 @@ creatingwebsite-maskolis.scgraph.facebook.com
 creative.ak.fbcdn.net
 creative.cdninstagram.com
 creative.fb.com
-creative.stripchat.com
 creative.stripchat.global
 creatives.stripchat.com
 creator.oculus.com
@@ -8024,7 +7946,6 @@ cs-cz.zh-tw.upps.lite.facebook.com
 cs-cz.zh.lite.facebook.com
 cs-cz.zh.tw.lite.facebook.com
 cs-en-t.catholicsingles.com
-cs.asiafriendfinder.com
 cs.bookofmatches.com
 cs.bumble.com
 cs.cam4.com
@@ -8226,7 +8147,6 @@ czech.datingvip.com
 czechrepublic.adultsearch.com
 czs.skokka.com
 d-support.planetromeo.com
-d.ads.pof.com
 d.amemv.com
 d.facebook.com
 d.fb.me
@@ -8261,10 +8181,6 @@ d2ojit41ttaj0e.cloudfront.net
 d3a5g80vg31har.cloudfront.net
 d3cwhzzyyewihk.cloudfront.net
 d6y1.ads.pof.com
-d6y2.ads.pof.com
-d6y3.ads.pof.com
-d6y4.ads.pof.com
-d6y5.ads.pof.com
 d9xr2nrl1eodo.cloudfront.net
 da-dk.aap.lite.facebook.com
 da-dk.ad-dk.lite.facebook.com
@@ -8602,7 +8518,6 @@ data-engineering.twoo.com
 data.bumble.com
 data.chinalove.dating
 data.coletteclubs.com
-data.flurry.com
 data.gotinder.com
 data.richwomen.org
 data.younow.com
@@ -9457,7 +9372,6 @@ denver.skipthegames.cam
 dep.tsescorts.com
 depannage-ordinateur-windows-virus.facebookbrand-dev.fb.com
 depannage-ordinateur-windows-virus.staging.scgraph.facebook.com
-deploy-ord.fling.com
 deployer-dev.younow.com
 deployer.younow.com
 dept.facebook.com
@@ -9652,7 +9566,6 @@ dev22.swapfinder.com
 dev24.threesomefinder.com
 dev27.nostringsattached.com
 dev27.playwithme.com
-dev29.asiafriendfinder.com
 dev3.misstravel.com
 devadmin.adultwork.com
 devapi.lunch-match.dating
@@ -9770,7 +9683,6 @@ dinkyone.niche.dating
 dir.sugar-mamas.org
 dir.swingtowns.com
 direct.agematch.com
-direct.asiafriendfinder.com
 direct.bookofmatches.com
 direct.date-me.com
 direct.fubar.com
@@ -9882,15 +9794,11 @@ dm-maliva-quic.byteoversea.com
 dm-maliva16.byteoversea.com
 dm-maliva16.byteoversea.com.edgekey.net
 dm-sg-quic.byteoversea.com
-dm.bytedance.com
 dm.bytedance.com.w.cdngslb.com
 dm.bytedance.net
 dm.byteoversea.com
 dm.camsoda.com
-dm.isnssdk.com
-dm.pstatp.com
 dm.sgsnssdk.com
-dm.toutiao.com
 dm16-alisg.byteoversea.com
 dm16-alisg.tiktokv.com
 dm16-useast1a.byteoversea.com
@@ -9917,7 +9825,6 @@ dna-romance.com
 dnbwwn.facebook.com
 dneasha14.friendsation.com
 dnipropetrovsk.skipthegames.cam
-dns.asiafriendfinder.com
 dns.chatdate.app
 dns.dating
 dns.facebook.com
@@ -10008,7 +9915,6 @@ down.muscdn.com
 downapp.com
 download-eu1.badoo.com
 download.0.facebook.com
-download.asiafriendfinder.com
 download.bookofmatches.com
 download.eharmony.com
 download.facebook.com
@@ -10156,7 +10062,6 @@ e6.whatsapp.net
 e7.whatsapp.net
 e8.whatsapp.net
 e9.whatsapp.net
-e93.asiafriendfinder.com
 eager.oculusvr.com
 east-anglia.bonepage.com
 east-anglia.skipthegames.cam
@@ -10223,7 +10128,6 @@ ecs-origin.paltalk.com
 ecss.facebookbrand-release.fb.com
 ecsurvey.eharmony.com
 ed-tool.stripchat.com
-ed.benaughty.com
 ed.cupid.com
 ed.indiandating.com
 eden.dating
@@ -11459,7 +11363,6 @@ education.fb.com
 edw-mstrar.facebookbrand-2018-release.fb.com
 ee.camquickie.com
 ee.cougarhangout.com
-eee.asiafriendfinder.com
 eee.fubar.com
 eexportwriter.facebookbrand-release.fb.com
 effect.tiktok.com
@@ -11846,7 +11749,6 @@ emich.facebook.com
 emimages.be2.com
 eml.agematch.com
 eml.anastasiadate.com
-eml.asiafriendfinder.com
 eml.banglocalsluts.com
 eml.bookofmatches.com
 eml.date-me.com
@@ -13829,7 +13731,6 @@ eul.badoo.com
 eunmask.fb.me
 eunmask.messenger.com
 eunmask.scgraph.facebook.com
-eur.benaughty.com
 eur.flirt.com
 euro.gayboy.chaturbate.com
 euro.twoo.com
@@ -14455,8 +14356,6 @@ f-buddy-no-strings-attached.dtmeetnn.com
 f-p-va.isnssdk.com
 f-p-va.isnssdk.com.edgekey.net
 f.badoo.com
-f.benaughty.com
-f.clickandflirt.com
 f.fetlife.com
 f.flirt.com
 f.messenger.com
@@ -15738,7 +15637,6 @@ file.kinklifes.com
 files-distance.ourtime.com
 files-eu.skibbel.com
 files.api.killingkittens.com
-files.asiafriendfinder.com
 files.boo.chat
 files.bookofmatches.com
 files.boomoji.boo.chat
@@ -15785,7 +15683,6 @@ find.messenger.com
 find.prettywomens.today
 find.topsites.dating
 findathreesome.com
-finderwww.asiafriendfinder.com
 findfreesex.nostringsattached.com
 finding-singles-in-my-area.dtmeetingnn.com
 findl.dating
@@ -15829,7 +15726,6 @@ flex.datingforseniors.com
 fling-app-reviews.dtlocalnn.com
 fling-or-adult-friend-finder.dtlocalnn.com
 fling-rating.dtmeetnn.com
-fling.com
 flingdatingapp.com
 flint.bedpage.com
 flint.bonepage.com
@@ -16224,7 +16120,6 @@ forum.2meet4free.com
 forum.adultfriendfinder.com
 forum.agematch.com
 forum.bbpeoplemeet.com
-forum.benaughty.com
 forum.bookofmatches.com
 forum.camdolls.com
 forum.connectingsingles.com
@@ -17083,7 +16978,6 @@ fr.facebookbrand-preprod.fb.com
 fr.facebookbrand-release.fb.com
 fr.facebookbrand.com
 fr.fdating.com
-fr.fling.com
 fr.freehookups.com
 fr.fubar.com
 fr.gleeden.com
@@ -17241,7 +17135,6 @@ frontend.webcam.dating
 frontier-va-edu.byteoversea.com
 frontier-va.byteoversea.com
 frontier-va.tiktokv.com
-frontier.byteoversea.com
 frontier.musical.ly
 frontier.tiktokv.com
 frontpage-support.planetromeo.com
@@ -17400,13 +17293,11 @@ fuck.dating
 fuckamilf.net
 fuckbookclub.dating
 fuckbuddyfinder.nostringsattached.com
-fuckdating.fling.com
 fucklocal.com
 fujibus-cojp.live.oculusvr.com
 fukuoka.skipthegames.cam
 full-hookup-sites.dtlocalnn.com
 fullthread.facebookbrand-preprod.fb.com
-fun.fling.com
 fun.sipsap.com
 fundatecity.com
 funnel.taimi.com
@@ -17603,7 +17494,6 @@ gate.tawkify.com
 gate.threesomefinder.com
 gate.widoweddating.com
 gateway.agematch.com
-gateway.asiafriendfinder.com
 gateway.asianmatching.com
 gateway.bicupid.com
 gateway.blackscene.com
@@ -17683,9 +17573,7 @@ gayconnect.com
 gaydar.net
 gaydatingzz.com
 gayfriendly.dating
-gayfuckbookdating.fling.com
 gaymature.welovedates.com
-gb.asiafriendfinder.com
 gb.latest.instagram.com
 gb.lite.facebook.com
 gb.m.dating.lovestruck.com
@@ -17693,7 +17581,6 @@ gb.messenger.com
 gb.newsroom.fb.com
 gb.swingingheaven.ca
 gbn.dating
-gbr.benaughty.com
 gbr.flirt.com
 gbwww.facebookbrand-dev.fb.com
 gc.milfplay.com
@@ -17707,7 +17594,6 @@ ge-0-0-1.pr01.iad3.tfbnw.net
 ge-chat.messenger.com
 ge.cougarhangout.com
 geaph.fb.me
-geboanner.asiafriendfinder.com
 gecko-sg.byteoversea.com
 gecko-sg.byteoversea.com.edgesuite.net
 gecko-sg.tiktokv.com
@@ -17734,8 +17620,6 @@ geo.instagram.com
 geo.messenger.com
 geo4.eden.dating
 geobanne.adultfriendfinder.com
-geobanner.alt.com
-geobanner.asiafriendfinder.com
 geobanner.nostringsattached.com
 geobanner.swapfinder.com
 geoinfection.fb.me
@@ -17968,7 +17852,6 @@ googlevideo.com
 gopro.facebook.com
 gordon.facebook.com
 gos261.bicupid.com
-gostoso.fling.com
 gotabuu.com
 gothedistance.facebookbrand-preprod.fb.com
 gothedistance.ro-ro.fbjs.facebook.com
@@ -18050,7 +17933,6 @@ graph2.fb.me
 graphb.fb.me
 graphg.fb.me
 graphh.fb.me
-graphics.adultfriendfinder.com
 graphics.alt.com
 graphics.cams.com
 graphics.imlive.com
@@ -18186,8 +18068,6 @@ guayaquil.bedpage.com
 guelph.bedpage.com
 guelph.skipthegames.cam
 guerrerocarlos.badoo.com
-guest.adultfriendfinder.com
-guest.asiafriendfinder.com
 guide.dine.dating
 guide.pairs.lv
 guineansugardaddy.dateworld.co
@@ -19141,7 +19021,6 @@ hk.msn.messenger.com
 hk.skipthegames.cam
 hk.swingtowns.com
 hk.webcam.dating
-hk2.asiafriendfinder.com
 hkg3.tfbnw.net
 hlatino.chat.org
 hls-l11.tiktokcdn.liveplay.myqcloud.com
@@ -19157,7 +19036,6 @@ holland.bedpage.com
 holland.skipthegames.cam
 holygraildesigns.clubfa.com
 home.2meet4free.com
-home.asiafriendfinder.com
 home.banglocalsluts.com
 home.bicupid.com
 home.blackscene.com
@@ -19428,8 +19306,6 @@ hot-local-singles-free.dtmeetingnn.com
 hot-meeting-dates.dtmeetingnn.com
 hot-women-in-miami.dtmeetingnn.com
 hot-women-in-utah.dtmeetingnn.com
-hot.fling.com
-hotapi-va.isnssdk.com
 hotapi-va.isnssdk.com.edgekey.net
 hotel-hookup-app.dtlocalnn.com
 hotel.webcam.dating
@@ -19439,7 +19315,6 @@ hothighest.gleeden.com
 hotline-screenshots.badoo.com
 hotline.badoo.com
 hotlocalsingles.net
-hotmail.fling.com
 hotmail.msn.messenger.com
 hotmoma.swinglifestyle.com
 hotmovie99.adultfriendfinder.com
@@ -19474,7 +19349,6 @@ how-to-use-hookup-sites.dtmeetnn.com
 how-to-use-tinder-secretly.dtlocalnn.com
 how.many.times.do.ineed.to.tell.you.we.are.not.dating
 howtotreatyeastinfection.facebookbrand-dev.fb.com
-hoy.fling.com
 hp-virusradar-s.ourtime.com
 hphotos-sea1.fbcdn.net
 hr-hr.appl.lite.facebook.com
@@ -19680,7 +19554,6 @@ httpscdn.fbsbx.com
 httpsecurevirus.beta.facebook.com
 httpsecurevirus.beta.messenger.com
 httpslookaside.fbsbx.com
-httpss.update.fbsbx.com
 httpswww.camdolls.com
 httpwww.adultfriendfinder.com
 httpwww.mamba.ru
@@ -19948,7 +19821,6 @@ huangguanguojixianbeiyongwangzhi.fdating.com
 huangguanyazhouzongdaili.fdating.com
 huangguanyulechengquanxunwangtigong.fdating.com
 huangshi.nostringsattached.com
-huawei.facebook.com
 huawei.mamba.ru
 hubcityselect.com
 hucclecote.swingersplay.com
@@ -20053,7 +19925,6 @@ i.giphy.com
 i.harem-battle.club
 i.hily.com
 i.instagram.com
-i.isnssdk.com
 i.isnssdk.com.edgekey.net
 i.messenger.com
 i.nzdating.com
@@ -20069,7 +19940,6 @@ i0.pstatp.com
 i0.pstatp.com.w.alikunlun.com
 i1.imlive.com
 i1.ytimg.com
-i16-tb.isnssdk.com
 i16-tb.isnssdk.com.edgekey.net
 i2.imlive.com
 i20.imlive.com
@@ -20103,7 +19973,6 @@ icemask.web.messenger.com
 icepigrain.friendsation.com
 ichannel-tb.isnssdk.com
 ichannel-va.tiktokv.com
-ichannel.isnssdk.com
 ichannel.musical.ly
 icq.chat.org
 icrlmdr.singlemuslim.com
@@ -20390,7 +20259,6 @@ ieys2-xsrvjp.twoo.com
 if.m.not.dating
 if.tsescorts.com
 ifame.adultfriendfinder.com
-iframe.adultfriendfinder.com
 ig-telegraph-shv-06-ash2.facebook.com
 ig-telegraph-shv-08-atn2.facebook.com
 ig-telegraph-shv-22-prn1.facebook.com
@@ -20420,9 +20288,7 @@ illinois.adultsearch.com
 illinois.bedpage.com
 illinois.lifestylelounge.com
 illinois.swingtowns.com
-ilpdating.fling.com
 ilpirataevil.bumble.com
-ilpvideo.fling.com
 im-origin.lovestruck.com
 im-uat.lovestruck.com
 im-va.tiktokv.com
@@ -20497,7 +20363,6 @@ images-ssl-zaf.gotinder.com
 images-ssl.gotinder.com
 images.afroromance.com
 images.api.killingkittens.com
-images.asiafriendfinder.com
 images.badoo.com
 images.banglocalsluts.com
 images.bicupid.com
@@ -20586,7 +20451,6 @@ imaging.giphy.com
 imap-mail.bookofmatches.com
 imap.2meet4free.com
 imap.agematch.com
-imap.asiafriendfinder.com
 imap.asianmatching.com
 imap.baddkittyclub.com
 imap.banglocalsluts.com
@@ -20718,7 +20582,6 @@ imapi-16.musical.ly.edgesuite.net
 imapi-16.tiktokv.com
 imapi-mu.isnssdk.com
 imapi-mu.isnssdk.com.edgekey.net
-imapi-sg.isnssdk.com
 imask.cinyourrc.facebook.com
 imba.facebook.com
 imcservices.adultfriendfinder.com
@@ -20733,7 +20596,6 @@ img.adultsearch.com
 img.adultwork.com
 img.agematch.com
 img.ashleymadison.com
-img.asiafriendfinder.com
 img.be2.com
 img.camdolls.com
 img.christiandatingforfree.com
@@ -20826,13 +20688,10 @@ imzog.comcl.skokka.com
 imzog.comec.skokka.com
 imzog.comin.skokka.com
 in-forum.loveaccess.com
-in-m.benaughty.com
 in-m.indiandating.com
 in-static.skokka.com
-in.benaughty.com
 in.camquickie.com
 in.chatspin.com
-in.clickandflirt.com
 in.cougarhangout.com
 in.cupid.com
 in.escortsaffair.com
@@ -22618,7 +22477,6 @@ institute.catholicmatch.com
 insurance.dating
 int-users.planetromeo.com
 int-v2.planetromeo.com
-int.benaughty.com
 int.coffeemeetsbagel.com
 int.fb.me
 int.flirt.com
@@ -22777,7 +22635,6 @@ interncache-vll.fbcdn.net
 internet-hookup-sites.dtmeetnn.com
 internet-prostitution-sites.dtmeetnn.com
 internet.agematch.com
-internet.asiafriendfinder.com
 internet.bookofmatches.com
 internet.fubar.com
 internet.hotpage.org
@@ -22867,7 +22724,6 @@ ip-31-109.fetlife.com
 ip.messenger.com
 ip222-autodiscover.oculusvr.com
 ipad.zoosk.com
-ipe.asiafriendfinder.com
 ipe.bookofmatches.com
 ipe.elitesingles.ca
 ipe.fubar.com
@@ -24379,7 +24235,6 @@ jobs.theleague.com
 jobsatecovib2d.fb.me
 jobspeed.dating
 jodhpur.skipthegames.cam
-john.fling.com
 johnson-city.skipthegames.cam
 johntatum2008.badoo.com
 johor-bahru.skipthegames.cam
@@ -25376,7 +25231,6 @@ l.0.facebook.com
 l.adultsearch.com
 l.agematch.com
 l.apps.pl-pl.tr-tr.prod.facebook.com
-l.asiafriendfinder.com
 l.banglocalsluts.com
 l.beta.facebook.com
 l.byteoversea.net
@@ -25395,7 +25249,6 @@ l.es-la.zh-cn.fbjs.facebook.com
 l.facebook.com
 l.fbjs.facebook.com
 l.fi-fi.zh-tw.upps.lite.facebook.com
-l.fling.com
 l.instagram.com
 l.intern.facebook.com
 l.it-it.ar-ar.fbjs.facebook.com
@@ -25498,7 +25351,6 @@ lakeland.bonepage.com
 lakeland.skipthegames.cam
 lakewoodnj-transsexualescorts.bedpage.com
 lakewoodnj.bedpage.com
-lam.benaughty.com
 lam.flirt.com
 lan-hi-in.fbjs.facebook.com
 lancaster-bodyrubs.bedpage.com
@@ -25800,8 +25652,6 @@ live-api-a.facebook.com
 live-api-s.facebook.com
 live-api.facebook.com
 live-biyouch-com.oculusvr.com
-live-cams-0.livejasmin.com
-live-cams-1.livejasmin.com
 live-cams-2.livejasmin.com
 live-cams-3.livejasmin.com
 live-cams-4.livejasmin.com
@@ -25820,14 +25670,12 @@ live.321sexchat.com
 live.adultwork.com
 live.allmale.com
 live.bazoocam.org
-live.benaughty.com
 live.besocial.com
 live.bookofmatches.com
 live.cupid.com
 live.dirtyroulette.com
 live.facebookbrand-release.fb.com
 live.fb.com
-live.fling.com
 live.lonelywifehookup.com
 live.love.easyflirt.com
 live.loveawake.com
@@ -25994,7 +25842,6 @@ local.bigdick.dating
 local.bikers.dating
 local.blackchristian.dating
 local.bondage.dating
-local.clickandflirt.com
 local.coffeemeetsbagel.com
 local.cougarsex.dating
 local.cougarsnearby.com
@@ -26045,18 +25892,13 @@ lockdown.facebookbrand-preprod.fb.com
 lockdown.jpeoplemeet.com
 lockdownteam.en-gb.prod.facebook.com
 lodi.bedpage.com
-log-tb.isnssdk.com
 log-tb.sgsnssdk.com
 log-va.tiktokv.com
 log-va.tiktokv.com.edgekey.net
-log.byteoversea.com
 log.byteoversea.com.edgekey.net
-log.isnssdk.com
 log.m.beta.facebook.com
-log.musical.ly
 log.onlyfans.com
 log.sgsnssdk.com
-log.snssdk.com
 log.tawkify.com
 log.tiktokv.com
 log.tiktokv.com.edgesuite.net
@@ -26069,12 +25911,10 @@ log16.byteoversea.com.edgekey.net
 log2-useast1a.musical.ly
 log2-useast2a.musical.ly
 log2-useast2a.musical.ly.edgekey.net
-log2.musical.ly
 log2.musical.ly.edgesuite.net
 log77-normal-c-alisg.tiktokv.com
 logan-utah-hookups.dtmeetnn.com
 logan.skipthegames.cam
-logger.instagram.com
 logger007.cam4.com
 login-romeo46.planetromeo.com
 login.0.facebook.com
@@ -26220,7 +26060,6 @@ loveflutter.com
 lovehabibi.com
 lovejusttee.dating
 lovely.dating
-lovelyyahoo.fling.com
 lovestruck.com
 lovey.dating
 loveyou.dating
@@ -26579,14 +26418,12 @@ m.anastasiadate.com
 m.apps.zh-cn.zh-tw.fbjs.facebook.com
 m.ar-ar.lite.facebook.com
 m.ar.lite.facebook.com
-m.asiafriendfinder.com
 m.asianbeauties.com
 m.asianescorts.com
 m.asianmatching.com
 m.axisworld.co.id.0.facebook.com
 m.badoo.com
 m.beautifulpeople.com
-m.benaughty.com
 m.beta.facebook.com
 m.bicupid.com
 m.blackdatingforfree.com
@@ -26607,7 +26444,6 @@ m.checkmatenyc.com
 m.christiandatingforfree.com
 m.christianmingle.com
 m.cinyour.facebook.com
-m.clickandflirt.com
 m.clubnv.net
 m.compatiblepartners.net
 m.connect.lite.facebook.com
@@ -26659,7 +26495,6 @@ m.flirtini.com
 m.fr-ca.latest.facebook.com
 m.fr-ca.pl-pl.de-de.fbjs.facebook.com
 m.fr-fr.cinyour.facebook.com
-m.fuckbookdating.fling.com
 m.gaydar.net
 m.gayfriendly.dating
 m.gb.lite.facebook.com
@@ -26751,7 +26586,6 @@ m.nzdating.com
 m.o.facebook.com
 m.okcupid.com
 m.omeglesocialchat.com
-m.onenightfriend.com
 m.onlinebootycall.com
 m.originaldating.com
 m.ourdatingjourney.com
@@ -26771,7 +26605,6 @@ m.pstatp.com
 m.pstatp.com.w.kunluncan.com
 m.pt-br.business.cinyour.facebook.com
 m.pwa.tsescorts.com
-m.realfuckbook.fling.com
 m.recon.com
 m.richmeetbeautiful.com
 m.rightstuffdating.com
@@ -26785,7 +26618,6 @@ m.silversingles.com
 m.singlemuslim.com
 m.sipsap.com
 m.sl-si.lite.facebook.com
-m.spankwire.fling.com
 m.spicymatch.com
 m.sr-rs.ca-es.fbjs.facebook.com
 m.stripchat.com
@@ -27256,7 +27088,6 @@ mail01.tawkify.com
 mail01.texasplayers.com
 mail01.threesomefinder.com
 mail01.widoweddating.com
-mail02.asiafriendfinder.com
 mail02.asianmatching.com
 mail02.banglocalsluts.com
 mail02.bicupid.com
@@ -27569,7 +27400,6 @@ mail4.afroromance.com
 mail4.agematch.com
 mail4.allureslifestyle.com
 mail4.ambiancematchmaking.com
-mail4.asiafriendfinder.com
 mail4.asianmatching.com
 mail4.banglocalsluts.com
 mail4.bicupid.com
@@ -27640,7 +27470,6 @@ mail5.threesomefinder.com
 mail5.widoweddating.com
 mail6.2meet4free.com
 mail6.ashleymadison.com
-mail6.asiafriendfinder.com
 mail6.asianmatching.com
 mail6.bicupid.com
 mail6.blackscene.com
@@ -27651,7 +27480,6 @@ mail6.datenaughtywives.com
 mail6.datingforseniors.com
 mail6.domesticmilfs.com
 mail6.elitesingles.ca
-mail6.fling.com
 mail6.friendsation.com
 mail6.heatedaffairs.com
 mail6.hornyaffairs.com
@@ -27717,7 +27545,6 @@ mail7.threesomefinder.com
 mail7.widoweddating.com
 mail8.2meet4free.com
 mail8.ashleymadison.com
-mail8.asiafriendfinder.com
 mail8.asianmatching.com
 mail8.banglocalsluts.com
 mail8.bicupid.com
@@ -27786,7 +27613,6 @@ mail9.texasplayers.com
 mail9.threesomefinder.com
 mail9.widoweddating.com
 mailapac.facebook.com
-mailapp.asiafriendfinder.com
 mailapp.bookofmatches.com
 mailapp.date-me.com
 mailapp.fubar.com
@@ -28083,7 +27909,6 @@ mailout.widoweddating.com
 mailout1.blossoms.com
 mailout2.blossoms.com
 mailrelay.2meet4free.com
-mailrelay.asiafriendfinder.com
 mailrelay.asianmatching.com
 mailrelay.banglocalsluts.com
 mailrelay.blackscene.com
@@ -28119,7 +27944,6 @@ mailrelay.threesomefinder.com
 mailrelay.widoweddating.com
 mails.2meet4free.com
 mails.afroromance.com
-mails.asiafriendfinder.com
 mails.asianmatching.com
 mails.bicupid.com
 mails.blackscene.com
@@ -28319,7 +28143,6 @@ male.feetfetish.dating
 male.grannysex.dating
 male.spanking.dating
 maliansugardaddy.dateworld.co
-maliva-mcs.byteoversea.com
 maliva-mcs.byteoversea.com.edgesuite.net
 maliva-normal-lb-useast2a.byteoversea.net
 maliva-normal-lb.byteoversea.net
@@ -28619,7 +28442,6 @@ mature-dg.dtlocalnn.com
 mature-one-night-stand.dtmeetingnn.com
 mature-women-hookup.dtlocalnn.com
 mature.adultfriendfinder.com
-mature.benaughty.com
 mature.it.adultfriendfinder.com
 mature.naughtydate.com
 matureamateur.alt.com
@@ -28649,7 +28471,6 @@ mbox.2meet4free.com
 mbox.afroromance.com
 mbox.agematch.com
 mbox.allureslifestyle.com
-mbox.asiafriendfinder.com
 mbox.blackscene.com
 mbox.catholicmatch.com
 mbox.chatdate.app
@@ -28697,12 +28518,10 @@ mcla.facebook.com
 mcommuni.autodiscover.oculusvr.com
 mcphs.facebook.com
 mcraffets.messenger.com
-mcs.snssdk.com
 mcsapi.dating.com
 mcuuantd.flirt4free.com
 md.camsoda.com
 md.cougarhangout.com
-md.fling.com
 md1.camsoda.com
 md3.adulthookups.com
 md3.easysex.com
@@ -28876,7 +28695,6 @@ media.adulthookups.com
 media.ambiancematchmaking.com
 media.app.chat2000.dating
 media.ashleymadison.com
-media.asiafriendfinder.com
 media.asianmatching.com
 media.beautifulpeople.com
 media.blackscene.com
@@ -29139,7 +28957,6 @@ media.flhe16-1.fna.whatsapp.net
 media.flhe18-1.fna.whatsapp.net
 media.flhe4-1.fna.whatsapp.net
 media.flim6-1.fna.whatsapp.net
-media.fling.com
 media.flip.dating
 media.flirt4free.com
 media.flko3-1.fna.whatsapp.net
@@ -29464,8 +29281,6 @@ melbournedating.dateworld.co
 melbournewater.facebook.com
 meli.facebook.com
 meli.m.facebook.com
-membaers.fling.com
-member.fling.com
 member3-2.adultfriendfinder.com
 members-sexart.adultfriendfinder.com
 members-test01.whatsyourprice.com
@@ -29482,7 +29297,6 @@ members.easysex.com
 members.elitesingles.com
 members.findsouthernlove.com
 members.fistingdating.com
-members.fling.com
 members.freeandsingle.com
 members.freehookups.com
 members.gaming.dating
@@ -29520,19 +29334,11 @@ members.whatsyourprice.com
 members.widoweddating.com
 members.xxxhookups.com
 membership.parents.dating
-membets.fling.com
-membre.fling.com
-membrers.fling.com
-membres.fling.com
-membrs.fling.com
-memeber.fling.com
 memphis.bonepage.com
 memphis.skipthegames.cam
 men.recon.com
 men.slixa.com
 menagesclub.com
-menbers.fling.com
-menbres.fling.com
 mendocino.skipthegames.cam
 mengima.fbjs.facebook.com
 mensajes.messenger.com
@@ -29729,7 +29535,6 @@ mirror.facebook.net
 mirror.hack.tfbnw.net
 mirror.spicymatch.com
 misc.meetic.com
-misc3-ord.fling.com
 misnotificaciones.bumble.com
 mississauga.bedpage.com
 mississippi-dating.connectingsingles.com
@@ -30036,14 +29841,10 @@ mobile.christianmingle.com
 mobile.developers.prod.facebook.com
 mobile.facebook.com
 mobile.facebook.messenger.com
-mobile.fling.com
 mobile.flirt4free.com
-mobile.fuckbookdating.fling.com
-mobile.gayfuckbookdating.fling.com
 mobile.heatedaffairs.com
 mobile.hornyaffairs.com
 mobile.idateasia.com
-mobile.ilpdating.fling.com
 mobile.imlive.com
 mobile.jalf.com
 mobile.lifestylelounge.com
@@ -30069,7 +29870,6 @@ mobile.swinglifestyle.com
 mobile.threesomefinder.com
 mobile.twitter.com
 mobile.uberhorny.com
-mobile.ubersex.fling.com
 mobile.ultra.dating
 mobile.zoosk.com
 mobileaffiliate.imlive.com
@@ -30100,7 +29900,6 @@ mods.doublelist.com
 modvolunteerleadership.facebook.com
 moelven.m.facebook.com
 moes.alt.com
-mofosex.fling.com
 mohave-county.bonepage.com
 mohave-county.skipthegames.cam
 mohave.bedpage.com
@@ -30108,20 +29907,15 @@ moldova.topescortbabes.com
 momgroup.facebook.com
 mommysucks.chaturbate.com
 momsmakecents.com
-mon-va.byteoversea.com
 mon-va.byteoversea.com.edgesuite.net
 mon-va.tiktokv.com
 mon-va.tiktokv.com.edgesuite.net
-mon.byteoversea.com
 mon.byteoversea.com.edgesuite.net
 mon.gotinder.com
-mon.isnssdk.com
 mon.musical.ly
 mon.musical.ly.edgesuite.net
 mon.sgsnssdk.com
 mon.singlemuslim.com
-mon.snssdk.com
-mon.tiktokv.com
 mon.tiktokv.com.edgesuite.net
 monasranchelko.com
 moncton.bonepage.com
@@ -30194,7 +29988,6 @@ movies.2meet4free.com
 movies.adultfriendfinder.com
 movies.alt.com
 movies.cs1.adultwork.com
-movies.fling.com
 movies.meetme.com
 moviesnas.adultwork.com
 moview.bumble.com
@@ -30496,7 +30289,6 @@ ms-myedge-secure-shv-01-lga3.fbjs.facebook.com
 ms-partner.bumble.com
 ms-us.datingvip.com
 ms.2meet4free.com
-ms.asiafriendfinder.com
 ms.asianmatching.com
 ms.bicupid.com
 ms.blackpeoplemeet.com
@@ -30586,7 +30378,6 @@ msg.blossoms.com
 msg.xdateapp.com
 msg051.waplog.com
 msg064.waplog.com
-msg2.fling.com
 msgin-regional-shv-01-rash0.facebook.com
 msgin-regional-shv-01-rfrc0.facebook.com
 msgin-regional-shv-01-rprn0.facebook.com
@@ -30765,7 +30556,6 @@ mtaout-37107-ewr.farmersonly.com
 mtaout-37108-ewr.farmersonly.com
 mtg-bkk-v1.l.byteoversea.net
 mtmercy.facebook.com
-mtobgay.fling.com
 mtouch.facebook.com
 mtouch.intern.facebook.com
 mtvernon.bedpage.com
@@ -30832,7 +30622,6 @@ mvideo.perfectmatch.com
 mviruswall.loveandseek.com
 mvm.snapchat.com
 mvnu.facebook.com
-mx-m.benaughty.com
 mx-out.facebook.com
 mx-static.skokka.com
 mx.2meet4free.com
@@ -30840,7 +30629,6 @@ mx.afroromance.com
 mx.allureslifestyle.com
 mx.alt.com
 mx.banglocalsluts.com
-mx.benaughty.com
 mx.bicupid.com
 mx.blackscene.com
 mx.camdolls.com
@@ -30848,7 +30636,6 @@ mx.carolinafriends.com
 mx.catholicmatch.com
 mx.chat.org
 mx.chatdate.app
-mx.clickandflirt.com
 mx.cloudfrontftp.twoo.com
 mx.clubnv.net
 mx.cougarhangout.com
@@ -31128,11 +30915,9 @@ mx2.2meet4free.com
 mx2.agematch.com
 mx2.asianmatching.com
 mx2.banglocalsluts.com
-mx2.benaughty.com
 mx2.bicupid.com
 mx2.catholicmatch.com
 mx2.chatdate.app
-mx2.clickandflirt.com
 mx2.clubnv.net
 mx2.cupid.com
 mx2.date-me.com
@@ -31164,7 +30949,6 @@ mx2.mpwh.net
 mx2.naughtydate.com
 mx2.naughtyfever.com
 mx2.nostringsattached.com
-mx2.onenightfriend.com
 mx2.originaldating.com
 mx2.perfectmatch.com
 mx2.playwithme.com
@@ -31213,7 +30997,6 @@ mx20.widoweddating.com
 mx3.2meet4free.com
 mx3.afroromance.com
 mx3.agematch.com
-mx3.asiafriendfinder.com
 mx3.asianmatching.com
 mx3.blackscene.com
 mx3.catholicmatch.com
@@ -31275,7 +31058,6 @@ mx4.texasplayers.com
 mx4.threesomefinder.com
 mx4.widoweddating.com
 mx5.2meet4free.com
-mx5.asiafriendfinder.com
 mx5.asianmatching.com
 mx5.blackscene.com
 mx5.catholicmatch.com
@@ -31358,7 +31140,6 @@ mxhero.facebook.com
 mxs.2meet4free.com
 mxs.afroromance.com
 mxs.agematch.com
-mxs.asiafriendfinder.com
 mxs.asianmatching.com
 mxs.blackscene.com
 mxs.catholicmatch.com
@@ -31500,7 +31281,6 @@ naija-hookup-community.dtlocalnn.com
 naija-hookup-site.dtlocalnn.com
 nairobi-singles-and-hookups.dtlocalnn.com
 nairobi.swingtowns.com
-nakedgamer.fling.com
 nalee14.oculusvr.com
 name1.meetandsex.com
 name2.meetandsex.com
@@ -31543,7 +31323,6 @@ naughtysecret.dating
 naughtyvalerie.friendsation.com
 naurudating.dateworld.co
 naverjp.fb.me
-nawara.fling.com
 naye01.gleeden.com
 nb-no.ad-dk.lite.facebook.com
 nb-no.appl.lite.facebook.com
@@ -31867,7 +31646,6 @@ new.51.dating
 new.adultsex.dating
 new.alt.com
 new.app.dating
-new.asiafriendfinder.com
 new.austinfriends.com
 new.badoo.com
 new.cams.com
@@ -32675,7 +32453,6 @@ npe.facebook.com
 npe.fb.com
 nperzggbuk.cams.com
 npm.developer.oculus.com
-npromos.fling.com
 nqzeqb.xzcs3zlph.com
 nrj.chat.org
 nrjmobile.meetic.com
@@ -32812,7 +32589,6 @@ ns2.doubledatenation.com
 ns2.elitesingles.ca
 ns2.eros-events.org
 ns2.facebook.com
-ns2.fling.com
 ns2.fuckamilf.net
 ns2.fundatecity.com
 ns2.gayconnect.com
@@ -33159,7 +32935,6 @@ one.tawkify.com
 oneclient.sfx.ms
 oneindia.chat.org
 onelastblog.fdating.com
-onenightfriend.com
 onenightstand-co-uk.dtmeetnn.com
 oneonta.facebook.com
 oneonta.skipthegames.cam
@@ -33254,7 +33029,6 @@ open-api.tiktok.com
 open-heart-lung-ntm-infection-settlement.scgraph.facebook.com
 open-testing.oncloser.com
 open.feeld.co
-open.isnssdk.com
 open.oncloser.com
 open.tinder.com
 open16-va.tiktokv.com
@@ -33278,7 +33052,6 @@ ops.omiai-jp.com
 opsis.facebook.com
 opszh-hant.facebookbrand-2018.fb.com
 optimize.singleandsober.com
-option9.adultfriendfinder.com
 options.skype.com
 oqni2pwazufylr80vbm5xd9gtc63j4h1ks7e.fb.me
 or-in.af-za.ro-ro.fbjs.facebook.com
@@ -33422,7 +33195,6 @@ ousaemichan1.oculusvr.com
 out.2meet4free.com
 out.afroromance.com
 out.agematch.com
-out.asiafriendfinder.com
 out.asianmatching.com
 out.best5.dating
 out.bicupid.com
@@ -33536,7 +33308,6 @@ over60.dating
 oviedo.skipthegames.cam
 ovrtesting.oculusvr.com
 owa.agematch.com
-owa.asiafriendfinder.com
 owa.be2.com
 owa.bookofmatches.com
 owa.date-me.com
@@ -33599,7 +33370,6 @@ p10.pstatp.com
 p10.pstatp.com.w.kunlunle.com
 p15a.tiktokcdn.com
 p16-ad-sg.ibyteimg.com
-p16-ad.byteoversea.com
 p16-amd-va.tiktokcdn.com
 p16-mt-va.ibyteimg.com
 p16-musical-sg.ibyteimg.com
@@ -33866,7 +33636,6 @@ pay.ja-jp.9pruw2rj.dns.facebook.com
 pay.meetic.com
 pay.mr-in.developers.prod.facebook.com
 pay.zoosk.com
-pay2.asiafriendfinder.com
 paygateway.meeteapp.com
 paygit.fbjs.facebook.com
 payment-dev.twoo.com
@@ -33891,12 +33660,10 @@ pb1.pstatp.com.wsglb0.com
 pb10484248.lifestylelounge.com
 pb2.pstatp.com
 pb2.pstatp.com.w.kunlunle.com
-pb3.pstatp.com
 pb3.pstatp.com.w.kunlungr.com
 pbl.sipsap.com
 pbr.oculusvr.com
 pbrand.agematch.com
-pbrand.asiafriendfinder.com
 pbrand.bookofmatches.com
 pbrand.fubar.com
 pbrand.jewishmatch.com
@@ -33976,7 +33743,6 @@ personals.aol.blackpeoplemeet.com
 personals.aol.jpeoplemeet.com
 personals.aol.loveandseek.com
 personals.aol.singleparentmeet.com
-personals.clickandflirt.com
 personals.friendsation.com
 personals.lonelywifehookup.com
 personals.oodle.com
@@ -34081,7 +33847,6 @@ photos.swinglifestyle.com
 photos.tagged.com
 photos.thelazyb-ranch.com
 photos1.jalf.com
-photos2.asiafriendfinder.com
 photos2.jalf.com
 photoupload.eharmony.com
 photouploads.christiandatingforfree.com
@@ -34153,7 +33918,6 @@ pic7.escortdirectory.com
 pichincha.facebook.com
 picked.dating
 piclist.cams.com
-pics.asiafriendfinder.com
 pics.blackdatingforfree.com
 pics.christiandatingforfree.com
 pics.doublelist.com
@@ -34198,7 +33962,6 @@ pimg.ashleymadison.com
 pingadults.com
 pingback-dev.giphy.com
 pingback-staging.giphy.com
-pingback.giphy.com
 pinguinotta.badoo.com
 pinkcupid.com
 pipe.skype.com
@@ -34225,7 +33988,6 @@ pixel.alpha.facebook.com
 pixel.business.cinyour.facebook.com
 pixel.cinyour.facebook.com
 pixel.cstools.facebook.com
-pixel.facebook.com
 pixel.fbjs.facebook.com
 pixel.intern.facebook.com
 pixel.latest.facebook.com
@@ -34592,7 +34354,6 @@ pnv.skype.com
 po.2meet4free.com
 po.adultsearch.com
 po.afroromance.com
-po.asiafriendfinder.com
 po.asianmatching.com
 po.bicupid.com
 po.blackscene.com
@@ -34728,7 +34489,6 @@ polls.tinder.com
 polska.fb.com
 poly4.swinglifestyle.com
 pomos.camsoda.com
-pomos.fling.com
 pony.are.not.dating
 poolparties.theprivateaffair.com
 pop.2meet4free.com
@@ -34756,7 +34516,6 @@ pop.datingforseniors.com
 pop.domesticmilfs.com
 pop.elitesingles.ca
 pop.escortdirectory.com
-pop.fling.com
 pop.flirt4free.com
 pop.ftp.easyflirt.com
 pop.ftp.imap4.mamba.ru
@@ -34825,7 +34584,6 @@ pop3.domesticmilfs.com
 pop3.elitesingles.ca
 pop3.eros-events.org
 pop3.eurogirlsescort.com
-pop3.fling.com
 pop3.ftp.easyflirt.com
 pop3.hily.com
 pop3.hornyaffairs.com
@@ -34933,7 +34691,6 @@ post.texasplayers.com
 post.threesomefinder.com
 post.widoweddating.com
 posta.2meet4free.com
-posta.asiafriendfinder.com
 posta.bicupid.com
 posta.blackscene.com
 posta.catholicmatch.com
@@ -35210,7 +34967,6 @@ projeler.bumble.com
 promd.camsoda.com
 promo-de.fbjs.facebook.com
 promo.lonelywifehookup.com
-promos.camsoda.com
 proposal.oculusvr.com
 proposalsautodiscover.oculusvr.com
 prostitution-in-san-francisco-ca.dtlocalnn.com
@@ -36169,7 +35925,6 @@ pure-hookup-website.dtmeetnn.com
 pure.app
 pure.dating
 puritan.twoo.com
-push-ord.fling.com
 push-rtmp-f5.tiktokcdn.com
 push-rtmp-l1.tiktokcdn.com
 push.delivery.facebook.com
@@ -36749,11 +36504,8 @@ real-one-night-stand-sites.dtlocalnn.com
 real-one-night-stand.dtmeetnn.com
 real-singles-of-new-jersey.dtmeetingnn.com
 real.dating
-realfucbook.fling.com
-realfuckbook.fling.com
 realgamjao.oculusvr.com
 realitylabsacademy.fb.com
-realkuckbook.fling.com
 realmeapp.bumble.com
 realsexpass.chaturbate.com
 realtime.firstmet.com
@@ -36783,8 +36535,6 @@ reddit.com
 reddmaskin.waplog.com
 redesign.christianseniors.com
 redirect.banglocalsluts.com
-redirect.benaughty.com
-redirect.clickandflirt.com
 redirect.cupid.com
 redirect.datenaughtywives.com
 redirect.domesticmilfs.com
@@ -36794,15 +36544,12 @@ redirect.gaydar.net
 redirect.indiandating.com
 redirect.meethornywives.com
 redirect.naughtydate.com
-redirect.onenightfriend.com
 redirect.taptodates.com
 redirect.together2night.com
-redirect2.clickandflirt.com
 redirect2.cupid.com
 redirect2.flirt.com
 redirect2.indiandating.com
 redirect2.naughtydate.com
-redirect2.onenightfriend.com
 redirect2.taptodates.com
 redirect2.together2night.com
 redirector-pay.fbjs.facebook.com
@@ -36909,7 +36656,6 @@ relay1.tawkify.com
 relay1.threesomefinder.com
 relay2.2meet4free.com
 relay2.allureslifestyle.com
-relay2.asiafriendfinder.com
 relay2.asianmatching.com
 relay2.banglocalsluts.com
 relay2.bicupid.com
@@ -37570,7 +37316,6 @@ rtlog.byteoversea.com
 rtlog.isnssdk.com
 rtlog.musical.ly
 rtlog.musical.ly.edgekey.net
-rtlog.tiktokv.com
 rtmp-api.facebook.com
 rtmp-l11.tiktokcdn.liveplay.myqcloud.com
 ru-md.cougarhangout.com
@@ -37940,7 +37685,6 @@ s3.grindr.com
 s3.pstatp.com
 s3.pstatp.com.xi.zwtianshangm.com
 s3.symcb.com
-s3a.pstatp.com
 s3a.pstatp.com.w.kunlungr.com
 s3b.pstatp.com
 s3b.pstatp.com.w.kunlungr.com
@@ -38099,7 +37843,6 @@ sbmaster-007.gleeden.com
 sbps1.omiai-jp.com
 sbx.fbsbx.com
 sbxar.facebookbrand-2018.fb.com
-sc-analytics.appspot.com
 sc-cdn.net
 sc-it.bo-mo-lo.fbjs.facebook.com
 sc-it.en-gb.ro.fbjs.facebook.com
@@ -39650,7 +39393,6 @@ search-ux.giphy.com
 search.adultfriendfinder.com
 search.adulthookups.com
 search.amemv.com
-search.asiafriendfinder.com
 search.easysex.com
 search.fb.com
 search.freehookups.com
@@ -39716,9 +39458,7 @@ secure.alpha.facebook.com
 secure.alt.com
 secure.alt.dating
 secure.ashleymadison.com
-secure.asiafriendfinder.com
 secure.asianmatching.com
-secure.benaughty.com
 secure.beta.facebook.com
 secure.bicupid.com
 secure.blacksingles.com
@@ -39817,7 +39557,6 @@ secureimap.fubar.com
 secureimap.loveaccess.com
 secureimap.millionairematch.com
 secureimap.perfectmatch.com
-securemail.asiafriendfinder.com
 securemail.bookofmatches.com
 securemail.fubar.com
 securemail.lifestylelounge.com
@@ -39838,9 +39577,7 @@ security-lb-maliva.byteoversea.net
 security.snssdk.com
 securitycamerastop.eyzwideshut.com
 secwebviews.pof.com
-seebang.fling.com
 seed.agematch.com
-seed.asiafriendfinder.com
 seed.bookofmatches.com
 seed.fubar.com
 seed.heatedaffairs.com
@@ -39859,11 +39596,6 @@ seed.soulgeek.com
 seed.sugardaddymeet.com
 seed.threesomefinder.com
 seed.tsescorts.com
-seeekbang.fling.com
-seegbang.fling.com
-seekbang.fling.com
-seekbuddies.fling.com
-seekdang.fling.com
 seeking-arrangement-review.dtlocalnn.com
 seeking-arrangements-reviews-2020.dtmeetnn.com
 seeking.com
@@ -39871,7 +39603,6 @@ seekingarrangaments.com
 seekingarrangement.websiteforsugardaddy.com
 seekingarrangements.org
 seekmillionaire.millionairematch.com
-seekslut.fling.com
 seeyou.dating
 sefer.adultwork.com
 seformer.fb.com
@@ -39884,7 +39615,6 @@ seminolecc.facebook.com
 semo.bedpage.com
 sen.camquickie.com
 sen.tsescorts.com
-send.asiafriendfinder.com
 send.date-me.com
 send.datemyschool.com
 send.elitesingles.ca
@@ -40027,7 +39757,6 @@ server1.widoweddating.com
 server2.2meet4free.com
 server2.afroromance.com
 server2.agematch.com
-server2.asiafriendfinder.com
 server2.asianmatching.com
 server2.banglocalsluts.com
 server2.bicupid.com
@@ -40111,7 +39840,6 @@ sexy-singles.dating
 sexy.be.gay.easyflirt.com
 sexy.be.sexy.easyflirt.com
 sexy.easyflirt.com
-sexy.fling.com
 sexycameron.sipsap.com
 sexychat.dating
 sexycouple6699.swinglifestyle.com
@@ -40130,7 +39858,6 @@ sf-tb-sg.ibytedtos.com.edgesuite.net
 sf-tk-sg.ibytedtos.com
 sf-tk-sg.ibytedtos.com.edgekey.net
 sf.bedpage.com
-sf1-ttcdn-tos.pstatp.com
 sf1-ttcdn-tos.pstatp.com.wsglb0.com
 sf1-vcloudcdn.pstatp.com
 sf1-vcloudcdn.pstatp.com.wsglb0.com
@@ -40163,7 +39890,6 @@ sf21-tk.tiktokcdn.com
 sf21-webcast.hypstarcdn.com
 sf21-webcast.muscdn.com
 sf21-webcast.tiktokcdn.com
-sf3-ttcdn-tos.pstatp.com
 sf3-ttcdn-tos.pstatp.com.w.kunlunpi.com
 sf6-ttcdn-tos.pstatp.com
 sf6-ttcdn-tos.pstatp.com.download.ks-cdn.com
@@ -40187,7 +39913,6 @@ sg.skokka.com
 sg3.byteoversea.com
 sga.meetic.com
 sgali-dpprofile.byteoversea.com
-sgali-mcs.byteoversea.com
 sgali-mcs.byteoversea.com.edgesuite.net
 sgali1.ws.byteoversea.net
 sgali3.l.byteoversea.net
@@ -40237,7 +39962,6 @@ sheridan.bonepage.com
 sherisranch.com
 shigekix5.vi-vn.lite.facebook.com
 shinysearch.fubar.com
-shiyan.asiafriendfinder.com
 shoals.bedpage.com
 shoe.chat.org
 shop.adultfriendfinder.com
@@ -40287,8 +40011,6 @@ shot.chatdate.app
 shoutout.mylol.com
 showitoff.org
 showlow.bedpage.com
-shpqitar.fling.com
-shqiptar.fling.com
 shreveport.skipthegames.cam
 shv-01-syd2.facebook.com
 shyguy8398.friendsation.com
@@ -40903,7 +40625,6 @@ slow.dating
 sls-dev.whatsyourprice.com
 sls.swinglifestyle.com
 sm1.fling.com
-sm2.fling.com
 small-tits.camsoda.com
 smallworlddating.2meet4free.com
 smartbang.com
@@ -40961,7 +40682,6 @@ smtp.easyflirt.com
 smtp.elitesingles.ca
 smtp.fdating.com
 smtp.find-a-cougar.com
-smtp.fling.com
 smtp.flirt4free.com
 smtp.gaydar.net
 smtp.hankiepankielifestyle.com
@@ -41221,7 +40941,6 @@ smtpauth.tawkify.com
 smtpauth.widoweddating.com
 smtpin.vvv.facebook.com
 smtpmail.adultsearch.com
-smtpmail.asiafriendfinder.com
 smtpmail.bicupid.com
 smtpmail.bookofmatches.com
 smtpmail.fubar.com
@@ -41264,7 +40983,6 @@ smtps.texasplayers.com
 smtps.widoweddating.com
 smtpseguro.2meet4free.com
 smtpseguro.allureslifestyle.com
-smtpseguro.asiafriendfinder.com
 smtpseguro.asianmatching.com
 smtpseguro.bicupid.com
 smtpseguro.blackscene.com
@@ -41803,7 +41521,6 @@ soydigitalcr.fb.com
 soydigitalmx.fb.com
 sp.gotinder.com
 sp.skokka.com
-sp2.fling.com
 spa.killingkittens.com
 space-coast.bonepage.com
 space-coast.hotpage.org
@@ -41855,7 +41572,6 @@ spamassassin03.find-a-cougar.com
 spamassassin04.find-a-cougar.com
 spankingdates.alt.com
 spankme.alt.com
-spankwire.fling.com
 sparkar-partners.fb.com
 sparkar.facebook.com
 sparkar.fb.com
@@ -42116,7 +41832,6 @@ sq-al.zh-tw.upps.lite.facebook.com
 sq-al.zh.lite.facebook.com
 sq-al.zh.tw.lite.facebook.com
 sql.allmale.com
-sql.asiafriendfinder.com
 sql.chaturbate.com
 sql.hily.com
 sql.silversingles.com
@@ -42330,12 +42045,10 @@ srv.widoweddating.com
 srv038.hily.com
 ss.myedate.com
 ssammi.fbjs.facebook.com
-sseekbang.fling.com
 ssh.clubforeplay.com
 ssh.twist-sf.com
 ssh.vipescortspattaya.com
 ssl-mask6.twoo.com
-ssl.asiafriendfinder.com
 ssl.blossoms.com
 ssl.bookofmatches.com
 ssl.c-date.com
@@ -42438,7 +42151,6 @@ staging.allmale.com
 staging.animemanga.dating
 staging.app.dating
 staging.app.jwed.com
-staging.asiafriendfinder.com
 staging.asianmatching.com
 staging.atheist.dating
 staging.banglocalsluts.com
@@ -42577,7 +42289,6 @@ starling-va.byteoversea.com
 starling-va.byteoversea.com.edgesuite.net
 starnet.fdating.com
 start-responsive.cam4.com
-start.asiafriendfinder.com
 start.dating
 start.friendsation.com
 start.loveawake.com
@@ -42803,7 +42514,6 @@ storage.twoo.com
 store.acting.dating
 store.agematch.com
 store.app.dating
-store.asiafriendfinder.com
 store.blackscene.com
 store.bookofmatches.com
 store.bunnyranch.com
@@ -42973,7 +42683,6 @@ support.agematch.com
 support.anastasiadate.com
 support.app.dating
 support.ashleymadison.com
-support.asiafriendfinder.com
 support.asiandating.com
 support.bbwcupid.com
 support.beautifulpeople.com
@@ -43555,14 +43264,12 @@ sz.m.lovestruck.com
 sz.parship.de
 szgyf.chatdate.app
 t-online.parship.de
-t.ads.pof.com
 t.adulthookups.com
 t.anastasiadate.com
 t.chatdate.app
 t.e.cupidmedia.com
 t.easysex.com
 t.eharmony.co.uk
-t.eharmony.com
 t.email.afrointroductions.com
 t.email.asiandating.com
 t.email.bbwcupid.com
@@ -43678,7 +43385,6 @@ tablet.facebook.com
 tabooapp.dating
 tabulife.com
 tachment.fbsbx.com
-tack.fling.com
 tacoma-singles-dat-ing.dtmeetingnn.com
 tacoma.bedpage.com
 tacoma.skipthegames.cam
@@ -43967,8 +43673,6 @@ tg-tj.facebook.com
 tg-tj.it-it.de-de.prod.facebook.com
 tg-tj.it-it.m.lite.facebook.com
 tglust.chaturbate.com
-tgp.adultfriendfinder.com
-tgtgim.appcloudbox.net
 tgubtklydg.cams.com
 th-3.fbsbx.com
 th-th.9pruw2rj.dns.facebook.com
@@ -44329,7 +44033,6 @@ tickets.tabulife.com
 tictanic.friendsation.com
 tidebug.lovey.dating
 tiffany-watson.bedpage.com
-tiger.asiafriendfinder.com
 tiger.bicupid.com
 tiger.bookofmatches.com
 tiger.date-me.com
@@ -45006,7 +44709,6 @@ tr.gleeden.com
 tr.learn-us-dev.facebookbrand-2018-release.fb.com
 tr.messenger.com
 tr.paltalk.com
-tr.snapchat.com
 tr.spicymatch.com
 tr.stripchat.com
 tr.stripchat.global
@@ -45028,8 +44730,6 @@ track.asianbeauties.com
 track.besocial.com
 track.cam4.com
 track.datemyschool.com
-track.eurogirlsescort.com
-track.fling.com
 track.hily.com
 track.jwed.com
 track.omiai-jp.com
@@ -45204,7 +44904,6 @@ tvhdseries.bumble.com
 tvirus.messenger.com
 tvweb-qa.giphy.com
 tw.agematch.com
-tw.asiafriendfinder.com
 tw.date-me.com
 tw.elitesingles.ca
 tw.fubar.com
@@ -45323,11 +45022,8 @@ uatvaccines.singleparentmeet.com
 ub.richwomen.org
 uber-dg.dtlocalnn.com
 uber.dating
-uberbang.fling.com
 ubergirls.me
 uberhorny.com
-uberhorny.fling.com
-ubersex.fling.com
 uc.facebook.com
 ucc.facebook.com
 ucdavis.datemyschool.com
@@ -45484,7 +45180,6 @@ uk.millionairematch.com
 uk.moist.dating
 uk.mysugarmomma.com
 uk.older.dating
-uk.onenightfriend.com
 uk.online.dating
 uk.ourtime.com
 uk.over50s.dating
@@ -45535,7 +45230,6 @@ unicreativearts.m.facebook.com
 uniformdatingfree.dateworld.co
 uniformy-a-maskace.facebook.messenger.com
 uniformy-a-maskace.internmc.facebook.com
-uniom.asiafriendfinder.com
 unisaedu.facebook.com
 unitecmx.facebook.com
 united-states.adultsearch.com
@@ -45561,7 +45255,6 @@ up.pof.com
 up.web.whatsapp.com
 upc.m.facebook.com
 update.dating
-update.fbsbx.com
 update.tinychat.com
 update.zoosk.com
 updatehd.livejasmin.com
@@ -45689,11 +45382,9 @@ us-east1-aws.api.sc-gw.com
 us-east1-aws.api.snapchat.com
 us-east4-gcp.api.snapchat.com
 us-fairbanks.bedpage.com
-us-fb.clickandflirt.com
 us-greenville.bedpage.com
 us-idaho.bedpage.com
 us-jerseyshore.bedpage.com
-us-m.benaughty.com
 us-maui.bedpage.com
 us-miami.bedpage.com
 us-minneapolis.bedpage.com
@@ -45759,9 +45450,6 @@ usa.topescortbabes.com
 usafa.facebook.com
 usb-shortcut-virus-remover.fr-fr.prod.facebook.com
 usb-shortcut-virus-remover.live.messenger.com
-usc.adserver.snapads.com
-use.adserver.snapads.com
-use.benaughty.com
 use.flirt.com
 user.marry.dating
 user155.mamba.ru
@@ -45770,10 +45458,8 @@ userimage.datenaughtywives.com
 userimage.domesticmilfs.com
 userimage.hornyaffairs.com
 userimage.meethornywives.com
-usm.benaughty.com
 usm.flirt.com
 usmistress.alt.com
-uss.benaughty.com
 uss.flirt.com
 uss.singlemuslim.com
 ustglobal.facebook.com
@@ -45855,7 +45541,6 @@ v12.sipsap.com
 v15-edge.tiktokcdn.com
 v15-fr.tiktokcdn.com
 v15.tiktokcdn.com
-v16-ad.byteoversea.com
 v16-byteoversea.muscdn.com
 v16-common.muscdn.com
 v16-common.tiktokcdn.com
@@ -46058,7 +45743,6 @@ vegas-one-night-stand.dtmeetnn.com
 vegas.163info.com
 vegetariandate.dateworld.co
 veidekke.facebook.com
-veltre.fling.com
 veltsi.bedpage.com
 velvetcurtain.net
 vendor.oculusvr.com
@@ -46932,7 +46616,6 @@ vigo-lb-alisg.byteoversea.net
 villacorona.facebookbrand-release.fb.com
 vip-outcall.sipsap.com
 vip.agematch.com
-vip.asiafriendfinder.com
 vip.bookofmatches.com
 vip.chat.org
 vip.date-me.com
@@ -47050,7 +46733,6 @@ vm.xzcs3zlph.com
 vmail.2meet4free.com
 vmail.afroromance.com
 vmail.agematch.com
-vmail.asiafriendfinder.com
 vmail.asianmatching.com
 vmail.banglocalsluts.com
 vmail.catholicmatch.com
@@ -47081,7 +46763,6 @@ vn.datingvip.com
 vn.escortsaffair.com
 vn.match.com
 vn.messenger.com
-vnet.asiafriendfinder.com
 vnet.bookofmatches.com
 vnet.catholicmatch.com
 vnet.chatdate.app
@@ -47111,7 +46792,6 @@ voojio.com
 vpn-shot.badoo.com
 vpn-shot.bumble.com
 vpn-shot.chatdate.app
-vpn.asiafriendfinder.com
 vpn.bazoocam.org
 vpn.bookofmatches.com
 vpn.connectingsingles.com
@@ -47132,7 +46812,6 @@ vpn.silversingles.com
 vpn.tfbnw.net
 vpn.tsescorts.com
 vpn10.error.our.intern.facebook.com
-vps.asiafriendfinder.com
 vps.bookofmatches.com
 vps.bunnyranch.com
 vps.connectingsingles.com
@@ -47186,7 +46865,6 @@ vupload2.facebook.com
 vupload2.vvv.facebook.com
 vuwac.facebook.com
 vvvvv.swirlr.com
-vwv.asiafriendfinder.com
 vwww.tawkify.com
 vysion.seeking.com
 vysion.whatsyourprice.com
@@ -47195,8 +46873,6 @@ vz.skokka.com
 vzbmx.xzcs3zlph.com
 w-l.fbjs.facebook.com
 w.agematch.com
-w.benaughty.com
-w.clickandflirt.com
 w.facebook.com
 w.flirt.com
 w.hornyaffairs.com
@@ -47380,7 +47056,6 @@ we.were.not.dating
 we77704cc1ky7456tc-geytcobqgiztcmjy.snr.whatsapp.net
 wealthydatingsites.com
 wealthysingles.net
-wearecheaters.fling.com
 weareher.com
 wearejeff.facebook.com
 web-1.omiai-jp.com
@@ -47561,7 +47236,6 @@ webdisk.6app.dating
 webdisk.allonlinedatingsites.com
 webdisk.analloverdating.co.uk
 webdisk.analslappers.com
-webdisk.asiafriendfinder.com
 webdisk.banglocalsluts.com
 webdisk.bellas.us
 webdisk.bkkescortservice.com
@@ -47759,7 +47433,6 @@ webmail.widoweddating.com
 webmail.youknowwherenc.com
 webmail.yourlocalsluts.com
 webmaster.camdolls.com
-webmaster.fling.com
 webnachrichten.parship.de
 webpxy.gotinder.com
 webs.bookofmatches.com
@@ -48820,7 +48493,6 @@ www.asahdigital.fb.com
 www.asal.chat.org
 www.ashley-madison.com
 www.ashleymadison.com
-www.asiafriendfinder.com
 www.asian-pv.com
 www.asianbeauties.com
 www.asiandating.com
@@ -48867,7 +48539,6 @@ www.belajarmenjaga.fb.com
 www.belfast.bedpage.com
 www.bellas.us
 www.benaughty.app
-www.benaughty.com
 www.besocial.com
 www.best-hookup.com
 www.besthookupsites.org
@@ -49040,7 +48711,6 @@ www.cipla.peoplestrong.alt.com
 www.ciplapeoplestrong.alt.com
 www.cityguides.fb.com
 www.classifiedads.com
-www.clickandflirt.com
 www.clickpapa.comin.skokka.com
 www.clicks.dating
 www.clientsidetesticici.facebook.com
@@ -49746,7 +49416,6 @@ www.findloveasia.com
 www.findsouthernlove.com
 www.fistingdating.com
 www.fjog3-1.fna.fbcdn.net
-www.fling.com
 www.flingdatingapp.com
 www.flip.dating
 www.flirt.com
@@ -51083,7 +50752,6 @@ www.odnoklassniki-ru.app.dating
 www.okcupid.com
 www.omiai-jp.com
 www.on.lite.facebook.com
-www.onenightfriend.com
 www.online.dating
 www.onlinebootycall.adultfriendfinder.com
 www.onlinebootycall.com
@@ -52371,7 +52039,6 @@ wwww.chaturbate.com
 wwww.easyflirt.com
 wwww.facebook.com
 wwww.fb.me
-wwww.fling.com
 wwww.instanthookups.com
 wwww.lite.facebook.com
 wwww.messenger.com
@@ -52394,7 +52061,6 @@ wwy.paltalk.com
 wwz.anastasiadate.com
 wwz.asianbeauties.com
 wx.match-maker.dating
-wxw.fling.com
 wxw.paltalk.com
 wyldeydsthrnboy.friendsation.com
 wyoming.bedpage.com
@@ -52428,10 +52094,7 @@ xlog-va.byteoversea.com
 xlog-va.byteoversea.com.edgesuite.net
 xlog-va.musical.ly
 xlog-va.musical.ly.edgesuite.net
-xlog-va.tiktokv.com
-xlog.byteoversea.com
 xlog.byteoversea.com.edgesuite.net
-xlog.tiktokv.com
 xlog.tiktokv.com.edgesuite.net
 xmaskaradax.facebookbrand-preprod.fb.com
 xmaskaradax.fb.me
@@ -52620,7 +52283,6 @@ yahoo.badoo.com
 yahoo.beta.messenger.com
 yahoo.chat.org
 yahoo.chemistry.com
-yahoo.fling.com
 yahoo.match.com
 yahoor.messenger.com
 yaj.sipsap.com
@@ -53073,7 +52735,6 @@ zambian-hookup-sites.dtlocalnn.com
 zanox.parship.de
 zcdn3.zoosk.com
 zdsso.jdate.com
-zefflow.fling.com
 zeit.parship.de
 zen.dating
 zendesk1.grindr.com
@@ -54391,7 +54052,6 @@ zhuhai.tawkify.com
 zigs.fdating.com
 zimbra.afroromance.com
 zimbra.allureslifestyle.com
-zimbra.asiafriendfinder.com
 zimbra.asianmatching.com
 zimbra.banglocalsluts.com
 zimbra.bicupid.com
@@ -54437,7 +54097,6 @@ zky.sipsap.com
 zm.fbjs.facebook.com
 zmail.2meet4free.com
 zmail.adultsearch.com
-zmail.asiafriendfinder.com
 zmail.asianmatching.com
 zmail.bicupid.com
 zmail.blackscene.com

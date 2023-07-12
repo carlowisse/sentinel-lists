@@ -5,9 +5,6 @@
 3dns-4.adobe.com
 3dns-5.adobe.com
 3dns.adobe.com
-a.stat.xiaomi.com
-abtauthprd.samsungcloudsolution.com
-abtest.mistat.xiaomi.com
 account.preview.n.xiaomi.net
 account.xiaomi.com
 acr0.samsungcloudsolution.com
@@ -23,7 +20,6 @@ activate.wip2.adobe.com
 activate.wip3.adobe.com
 activate.wip3.adobe.de
 activate.wip4.adobe.com
-ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
 adiu.amap.com
 adobe-dns-1.adobe.com
 adobe-dns-2.adobe.com
@@ -35,11 +31,8 @@ adobe-dns.adobe.com
 adobe-dns.adobe.de
 adobe.activate.com
 adobeereg.com
-ads.samsungads.com
-amauthprd.samsungcloudsolution.com
 api.account.preview.n.xiaomi.net
 api.account.xiaomi.com
-api.chat.xiaomi.net
 api.developer.xiaomi.com
 api.vip.miui.com
 api.weibo.cn
@@ -53,10 +46,8 @@ app.xiaomi.com
 apple.com
 avpro.global.yamaha.co
 cc2.sys.miui.com
-cdn.hbbtv.smartclip.net
 cdn.optimizely.com
 cdn.samsungcloudsolution.net
-cdn.smartclip.net
 cdn.sstatic.necmdls.adobe.com
 configprd.samsungcloudsolution.net
 contactapi.micloud.xiaomi.net
@@ -71,7 +62,6 @@ dev.market.n.xiaomi.com
 dev.staging.api.developer.n.xiaomi.com
 directvapplications.hb.omtrdc.net
 directvnow.com
-display.ravm.tv
 dl.dropbox.com
 drm.market.xiaomi.com
 dropbox.com
@@ -104,16 +94,12 @@ lmlicenses.wip4.adobe.com
 log-1.samsungacr.com
 log-2.samsungacr.com
 log-3.samsungacr.com
-log-ingestion-eu.samsungacr.com
-log-ingestion.samsungacr.com
 m.zhuti.xiaomi.com
 market.xiaomi.com
 mcp.tvinteractive.tv
 micloud.xiaomi.net
-midland.logs.roku.com
 miui.com
 miui.net
-musicid.samsungcloudsolution.com
 mzstatic.com
 na1r.services.adobe.com
 na2m-pr.licenses.adobe.com
@@ -123,7 +109,6 @@ netflix.com
 new.api.ad.xiaomi.com
 notice.samsungcloudsolution.com
 noticecdn.samsungcloudsolution.com
-noticefile.samsungcloudsolution.com
 oauth.sslauth.sonos.com
 ocsp.spo1.verisign.com
 onebox.api.zhuti.n.xiaomi.com
@@ -132,8 +117,6 @@ ood.opsource.net
 openmobile.qq.com
 osb-apps.samsungqbe.com
 osb-eusvc.samsungqbe.com
-osb-krsvc.samsungqbe.com
-osb.samsungqbe.com
 otn.samsungcloudcdn.com
 paopaotuan.org
 plus.google.com
@@ -152,11 +135,7 @@ rwww.samsungotn.net
 s-2.adobe.com
 s-3.adobe.com
 s.zkcdn.net
-sandbox.xmpush.xiaomi.com
 sas.samsungcloudsolution.com
-scheduler.hbbtv.smartclip.net
-scribe.logs.roku.com
-script.ioam.de
 service-catalog.ws.sonos.co
 service.weibo.com
 sso.internetat.tv
@@ -168,13 +147,8 @@ static-assets-prod.epicgames.com
 static-assets-prod.unrealengine.com
 static.kickstarter.co
 static.nc-img.com
-stats-irl.sxp.smartclip.net
-stats.hbbtv.smartclip.net
 targeted-config-test.samsungacr.com
-test.e.ad.xiaomi.com
-test.log.ad.xiaomi.com
 test.new.api.ad.xiaomi.com
-test.samsungrm.net
 test.xiaomi.com
 test.zeus.ad.xiaomi.com
 thm.market.xiaomi.com
@@ -301,7 +275,6 @@ www.wip2.adobe.com
 www.wip3.adobe.com
 www.wip4.adobe.com
 www.xiaomi.com
-x2.vindicosuite.com
 xiaomi.com
 xiaomi.net
 zhuti.xiaomi.com
