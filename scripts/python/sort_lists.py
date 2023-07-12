@@ -1,4 +1,5 @@
 import os
+from globals import domain_folder_path, regex_folder_path
 
 
 def order_txt_files(folder_path):
@@ -18,6 +19,5 @@ def order_txt_files(folder_path):
             file.truncate()
 
 
-# Example usage
-folder_path = "../../lists/domains"
-order_txt_files(folder_path)
+### EXECUTE ###
+order_txt_files(domain_folder_path)

@@ -1,9 +1,11 @@
 import os
+from globals import domain_folder_path, regex_folder_path
 
 
 def count_lines(folder_path):
     txt_files = []
     total_line_count = 0
+
     for root, dirs, files in os.walk(folder_path):
         for file in files:
             if file.endswith(".txt"):
@@ -15,9 +17,12 @@ def count_lines(folder_path):
             line_count = sum(1 for line in file)
             total_line_count += line_count
 
-    print(f"Total line count: {total_line_count}")
+    return total_line_count
 
 
-# Example usage
-folder_path = "../../lists/domains"
-count_lines(folder_path)
+### EXECUTE ###
+domains_count = count_lines(domain_folder_path)
+regexes_count = count_lines(regex_folder_path)
+
+print(f"Domains: {domains_count}")
+print(f"Regexes: {regexes_count}")
