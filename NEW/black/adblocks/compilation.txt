@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/light.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt

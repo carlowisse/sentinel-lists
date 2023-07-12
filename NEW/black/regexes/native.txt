@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.huawei.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.winoffice.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/native.tiktok.txt

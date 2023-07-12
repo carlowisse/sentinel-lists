@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/nextdns/services/main/services/amazon
+https://raw.githubusercontent.com/nextdns/services/main/services/dailymotion
+https://raw.githubusercontent.com/nextdns/services/main/services/ebay
+https://raw.githubusercontent.com/nextdns/services/main/services/netflix
+https://raw.githubusercontent.com/nextdns/services/main/services/spotify
+https://raw.githubusercontent.com/nextdns/services/main/services/steam
+https://raw.githubusercontent.com/nextdns/services/main/services/twitter
+https://raw.githubusercontent.com/nextdns/services/main/services/vimeo
+https://raw.githubusercontent.com/nextdns/services/main/services/youtube
